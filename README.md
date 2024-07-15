@@ -14,7 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 [![@im-krizox/crm-graphql-frontend][frontend-badge]][frontend-url]
 
-[frontend-badge]: https://img.shields.io/badge/Backend-181717?style=flat&logo=github
+[frontend-badge]: https://img.shields.io/badge/Frontend-181717?style=flat&logo=github
 [frontend-url]: https://github.com/im-krizox/crm-graphql-frontend
 
 </div>
